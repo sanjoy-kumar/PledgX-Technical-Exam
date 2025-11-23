@@ -1,3 +1,5 @@
+This project is a full-stack web application built using Flask (Python) for the backend, MySQL for the database, and React.js for the frontend. It demonstrates a complete workflow including user interactions on the client side, API communication, server-side processing, and persistent data storage.
+
 ## Creating a Starter React Project
 
 - $ npx create-react-app react-flask-app
